@@ -1,3 +1,0 @@
-break _start
-break *_start+10
-
