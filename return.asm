@@ -4,6 +4,8 @@ section .text
 ;Inicializa o progrma
 _start:
 	
+       nop
+
 ;Finaliza o programa
 _exit:
 	mov eax,1 ; codigo da syscall exit()
